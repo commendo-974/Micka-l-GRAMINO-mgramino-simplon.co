@@ -1,0 +1,27 @@
+div{
+
+
+
+
+}
+
+.cadre{
+ margin:auto;
+ width: 500px;
+ height: 500px;
+}
+.couleur{
+    border: 5px black solid;
+}
+.apocalypse{font-size: 30px 
+}
+img{
+    width: 150px;
+    height: auto;
+}
+.oxygene{float:left;
+
+}
+.wow{ margin:auto;
+    width: 750px;
+    height: 600px;}
